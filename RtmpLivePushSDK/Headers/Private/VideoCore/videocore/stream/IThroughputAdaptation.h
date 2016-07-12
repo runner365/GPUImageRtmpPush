@@ -1,0 +1,1 @@
+../../../../../VideoCore/stream/IThroughputAdaptation.h

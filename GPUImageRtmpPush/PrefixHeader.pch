@@ -1,0 +1,17 @@
+//
+//  PrefixHeader.pch
+//  GPUImageRtmpPush
+//
+//  Created by 施维 on 16/7/12.
+//  Copyright © 2016年 xiaoq. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <UIKit/UIKit.h>
+
+#define SCREEN_WEIGHT     [UIScreen mainScreen].bounds.size.width
+#define SCREEN_HEIGHT     [UIScreen mainScreen].bounds.size.height
+
+#endif /* PrefixHeader_pch */

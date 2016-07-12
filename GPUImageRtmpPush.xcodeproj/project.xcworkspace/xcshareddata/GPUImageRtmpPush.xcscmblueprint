@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C632A1BAE0B668E4644BBDA1FE5A9CF64EFCDEF7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0CE6276335B519201392AE507EA12B2DF9FF0EAC" : 0,
+    "C632A1BAE0B668E4644BBDA1FE5A9CF64EFCDEF7" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F18454A2-0A99-41E3-8B3E-015220CAE6C4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0CE6276335B519201392AE507EA12B2DF9FF0EAC" : "..",
+    "C632A1BAE0B668E4644BBDA1FE5A9CF64EFCDEF7" : "GPUImageRtmpPush\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GPUImageRtmpPush",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GPUImageRtmpPush.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/runner365\/AudioMix.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0CE6276335B519201392AE507EA12B2DF9FF0EAC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/runner365\/GPUImageRtmpPush.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C632A1BAE0B668E4644BBDA1FE5A9CF64EFCDEF7"
+    }
+  ]
+}
